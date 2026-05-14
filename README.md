@@ -27,16 +27,16 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<br/>
 <!-- 대외활동 -->
-## 💡 Projects
+<br/>
+<h2>💡Projects</h2>
 
 <table>
   <tr>
-    <th>날짜</th>
-    <th>프로젝트</th>
-    <th>역할</th>
-    <th>활동내역</th>
+    <th>Date</th>
+    <th>Project</th>
+    <th>Role</th>
+    <th>Activity</th>
   </tr>
   <tr>
     <td>2026.05</td>
