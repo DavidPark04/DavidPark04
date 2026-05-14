@@ -12,7 +12,7 @@
 
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C](https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **🎨 Front-end**
@@ -31,6 +31,17 @@
 <!-- 대외활동 -->
 ## 💡 Projects
 
-| 날짜 | 프로젝트 | 역할 | 활동내역 |
-|------|----------|------|----------|
-| 2026.05 | **NeerCat** - AI 기반 소비 분석과 게임형 챌린지를 결합한 절약 습관 형성 가계부 서비스 | BE |🥉 우수상 · 동양미래대학교 컴퓨터공학부 × 시각디자인과 연합 솜커톤 |
+<table>
+  <tr>
+    <th>날짜</th>
+    <th>프로젝트</th>
+    <th>역할</th>
+    <th>활동내역</th>
+  </tr>
+  <tr>
+    <td>2026.05</td>
+    <td><b>NeerCat</b> - AI 기반 소비 분석과 게임형 챌린지를 결합한 절약 습관 형성 가계부 서비스</td>
+    <td align="center">BE</td>
+    <td>🥉 우수상 · 동양미래대학교 컴퓨터공학부 × 시각디자인과 연합 솜커톤</td>
+  </tr>
+</table>
