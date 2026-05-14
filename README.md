@@ -1,14 +1,15 @@
+<!-- 타이틀 -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/66e7b881-56cb-4868-9882-70f30baed207" alt="Dawit's Github Banner" width="100%"/>
+</p>
+<br/>
+
 <!--소개-->
 <h2>👾 About Me</h2>
 
 > 🎓 동양미래대학교 컴퓨터소프트웨어학과 2학년<br/>
 > 💻 컴퓨터소프트웨어학과 전공동아리 EL 멤버<br/>
 > 🎸 밴드부 MRA 멤버<br/>
-
-<!-- 타이틀 -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/66e7b881-56cb-4868-9882-70f30baed207" alt="Dawit's Github Banner" width="100%"/>
-</p>
 
 <!-- 스택 -->
 <br/>
