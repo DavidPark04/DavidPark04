@@ -14,7 +14,7 @@
 <!-- 스택 -->
 <br/>
  
-## 🛠 Tech Stack STUDYING
+## 🛠 Tech Stack Learning
 
 **💻 Back-end**
 
