@@ -13,8 +13,8 @@
 
 <!-- 스택 -->
 <br/>
-
-## 🛠 Tech Stack
+ 
+## 🛠 Tech Stack STUDYING
 
 **💻 Back-end**
 
