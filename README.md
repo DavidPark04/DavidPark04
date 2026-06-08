@@ -1,6 +1,6 @@
 <!-- 타이틀 -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6ba74560-ff35-4294-b5a4-72a0ac702458" alt="Dawit's Github Banner" width="100%"/>
+  <img src="./assets/banner.gif" alt="Dawit's Github Banner" width="100%"/>
 </p>
 <br/>
 
