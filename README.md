@@ -1,7 +1,5 @@
 <!-- 타이틀 -->
-<p align="center">
-  <img src="./assets/banner.gif" alt="Dawit's Github Banner" width="100%"/>
-</p>
+![test](https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif)
 <br/>
 
 <!--소개-->
