@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
 <title id="title">Dawit GitHub</title><desc id="desc">Building AI into products people actually use. A gradient code tag bounces off the edges and the letters; struck letters nudge and spring back. Reduced motion shows a still banner.</desc>
 <defs>
-    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1FD1A5"/><stop offset=".34" stop-color="#39D353"/><stop offset=".68" stop-color="#26A641"/><stop offset="1" stop-color="#7EE787"/></linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#AEAEB2"/><stop offset=".34" stop-color="#636366"/><stop offset=".68" stop-color="#8E8E93"/><stop offset="1" stop-color="#C7C7CC"/></linearGradient>
     <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#ffffff"/>
       <stop offset="100%" stop-color="#b9b9c0"/>
