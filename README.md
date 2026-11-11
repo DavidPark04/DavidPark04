@@ -1,29 +1,61 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <img src="./assets/banner-light.svg" alt="Dawit GitHub — AI Engineer. Building AI into products people actually use." width="100%">
-</picture>
-
+<!-- 타이틀 -->
+<p align="center">
+  <img src="./assets/banner.svg" alt="Dawit GitHub — AI Engineer" width="100%"/>
+</p>
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg">
-  <img src="./assets/about-light.svg" alt="About — 생성형 AI를 실제로 쓰이는 서비스로 만듭니다. 동양미래대학교 컴퓨터소프트웨어학과 2학년 · 전공동아리 EL 임원진 · UMC PE(Web) 11기" width="100%">
-</picture>
+<!--소개-->
+<h2>👾 About Me</h2>
 
+> 🎓 동양미래대학교 컴퓨터소프트웨어학과 2학년<br/>
+> 💻 컴퓨터소프트웨어학과 전공동아리 EL 임원진<br/>
+> ☀️ UMC - PE(Web) 11기<br/>
+<!-- 스택 -->
 <br/>
+ 
+## 🛠 Tech Stack Learning
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
-  <img src="./assets/stack-light.svg" alt="Stack — Language: Python, Java, C, JavaScript / Backend: Spring, JSP, MySQL / Frontend: React, HTML, CSS / Tools: Git, GitHub" width="100%">
-</picture>
+**💻 Back-end**
 
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**🎨 Front-end**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**⚙️ Tools & OS**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<!-- 대외활동 -->
 <br/>
+<h2>💡Projects</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/projects-dark.svg">
-  <img src="./assets/projects-light.svg" alt="Projects & Awards — 2026.11 Clinical Checkpoint 동상((사)한국실천공학교육학회 교육장비 개발 및 아이디어 경진대회) / 2026.05 NeerCat 우수상(동양미래대학교 연합 솜커톤)" width="100%">
-</picture>
-
-</div>
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Project</th>
+    <th>Role</th>
+    <th>Activity</th>
+  </tr>
+  <tr>
+    <td>2026.11</td>
+    <td><b>Clinical Checkpoint</b> - 임상추론 교육 시뮬레이터</td>
+    <td align="center">Team</td>
+    <td>🥉 동상 · (사)한국실천공학교육학회 교육장비 개발 및 아이디어 경진대회</td>
+  </tr>
+  <tr>
+    <td>2026.05</td>
+    <td><b>NeerCat</b> - AI 기반 소비 분석과 게임형 챌린지를 결합한 절약 습관 형성 가계부 서비스</td>
+    <td align="center">BE</td>
+    <td>🥉 우수상 · 동양미래대학교 컴퓨터공학부 × 시각디자인과 연합 솜커톤</td>
+  </tr>
+</table>
