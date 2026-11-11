@@ -1,6 +1,6 @@
 <!-- 타이틀 -->
 <p align="center">
-  <img src="./assets/banner.svg" alt="Dawit GitHub — AI Engineer" width="100%"/>
+  <img src="./assets/banner.svg" alt="Dawit GitHub" width="100%"/>
 </p>
 <br/>
 
