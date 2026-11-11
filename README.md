@@ -1,6 +1,6 @@
 <!-- 타이틀 -->
 <p align="center">
-  <img src="./assets/banner.gif" alt="Dawit's Github Banner" width="1000"/>
+  <img src="./assets/banner.svg" alt="Hello, I'm Dawit. Backend Developer" width="100%"/>
 </p>
 <br/>
 
@@ -8,7 +8,8 @@
 <h2>👾 About Me</h2>
 
 > 🎓 동양미래대학교 컴퓨터소프트웨어학과 2학년<br/>
-> 💻 컴퓨터소프트웨어학과 전공동아리 EL 멤버<br/>
+> 💻 컴퓨터소프트웨어학과 전공동아리 EL 임원진<br/>
+> ☀️ UMC - PE(Web) 11기<br/>
 <!-- 스택 -->
 <br/>
  
@@ -16,6 +17,7 @@
 
 **💻 Back-end**
 
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -43,6 +45,12 @@
     <th>Project</th>
     <th>Role</th>
     <th>Activity</th>
+  </tr>
+  <tr>
+    <td>2026.11</td>
+    <td><b>Clinical Checkpoint</b> - 생성형 AI 가상환자 문진과 근거 리포트 디브리핑을 결합한 임상추론 교육 시뮬레이터</td>
+    <td align="center">Team</td>
+    <td>🥉 동상 · (사)한국실천공학교육학회 창의융합 인재양성을 위한 교육장비 개발 및 아이디어 경진대회</td>
   </tr>
   <tr>
     <td>2026.05</td>
